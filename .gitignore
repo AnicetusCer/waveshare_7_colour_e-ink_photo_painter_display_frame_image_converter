@@ -1,0 +1,4 @@
+# Directory Structure for local user images, ignore local user images.
+/OriginalImages/*
+/OutputImages/*
+/ResizedImages/*
